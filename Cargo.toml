@@ -1,0 +1,8 @@
+[package]
+name = "classic_rogue"
+version = "0.1.0"
+authors = ["Matteo Guglielmetti <m.guglielmetti@noonic.com>"]
+
+[dependencies]
+tcod = "0.12"
+rand = "0.3.9"
